@@ -1,3 +1,3 @@
 # Origins-Kenzo
 releases are here :
-github.com/griskill/Origins-Kenzo/releases
+https://github.com/griskill/Origins-Kenzo/releases
